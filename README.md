@@ -3,6 +3,8 @@
 ## Introduction
 Demon domain is one of the best ways to gain SSR Soulblooms in the game. This project seeks to answer the question: "What area is best to explore for getting the most SSR soulblooms?"
 
+If all you care about is what the optimal strategy for farming SSR Soulblooms in Demon Domain is, skip to conclusions.
+
 ## Methodology
 ### Demons
 Each enemy is represented in code using a class 'Demon', which contains: 
